@@ -10,6 +10,13 @@ Analyze the relationship between Bitcoin market sentiment and trader performance
 - Matplotlib
 - Seaborn
 - SciPy
+## Open Notebook
+
+Download and open:
+
+- Primetrade_Sentiment_Analysis.ipynb
+
+GitHub notebook preview may occasionally fail due to notebook rendering limitations.
 
 ## Analysis Performed
 - Data Cleaning
