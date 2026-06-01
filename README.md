@@ -3,6 +3,19 @@
 ## Objective
 Analyze the relationship between Bitcoin market sentiment and trader performance using Fear & Greed Index and Hyperliquid historical trading data.
 
+## Access the Project
+
+### GitHub Repository
+https://github.com/Tushar-Sati/Primetrade-Sentiment-Analysis
+
+### Open in Google Colab
+https://colab.research.google.com/github/Tushar-Sati/Primetrade-Sentiment-Analysis/blob/main/Primetrade_Sentiment_Analysis.ipynb
+
+### Notebook File
+If the GitHub notebook preview fails, download and open:
+
+- `Primetrade_Sentiment_Analysis.ipynb`
+
 ## Technologies
 - Python
 - Pandas
@@ -10,30 +23,13 @@ Analyze the relationship between Bitcoin market sentiment and trader performance
 - Matplotlib
 - Seaborn
 - SciPy
-## Open Notebook
-
-Download and open:
-
-- Primetrade_Sentiment_Analysis.ipynb
-
-GitHub notebook preview may occasionally fail due to notebook rendering limitations.
 
 ## Analysis Performed
 - Data Cleaning
 - Sentiment Analysis
 - Trader Performance Analysis
 - Risk Assessment
-- Statistical Testing
-
-## Key Findings
-- Trader profitability varies significantly across sentiment regimes.
-- Extreme Greed periods showed higher average profits.
-- Risk metrics differ between Fear and Greed periods.
-
-## Repository Contents
-- Primetrade_Sentiment_Analysis.ipynb
-- Analysis_Report.pdf
-- requirements.txt
+- Correlation Analysis
 
 ## Author
 Tushar Sati
